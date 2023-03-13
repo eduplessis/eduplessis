@@ -6,6 +6,7 @@
     "generate": "nuxi generate",
     "preview": "nuxi preview",
     "postinstall": "nuxi prepare"
+    "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
     "content-wind": "^0.2.7",
