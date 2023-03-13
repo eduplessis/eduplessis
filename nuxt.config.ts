@@ -4,8 +4,5 @@ export default defineNuxtConfig({
   // Workaround for Stackblitz on RC12
   experimental: {
     writeEarlyHints: false
-  },
-  nitro: {
-    preset: 'node-server'
   }
 })
