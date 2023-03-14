@@ -1,7 +1,10 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   extends: 'content-wind',
-  // Workaround for Stackblitz on RC12
+  modules: ['@nuxtjs/plausible'],
+  plausible: {
+    apiHost: 'https://analytic.eduplessis.com'
+  },
   experimental: {
     writeEarlyHints: false
   }

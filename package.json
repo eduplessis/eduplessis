@@ -8,6 +8,7 @@
     "postinstall": "nuxi prepare"
   },
   "devDependencies": {
+    "@nuxtjs/plausible": "^0.2.0",
     "content-wind": "^0.2.7",
     "nuxt": "3.0.0-rc.12"
   }
