@@ -10,6 +10,6 @@
   "devDependencies": {
     "@nuxtjs/plausible": "^0.2.0",
     "content-wind": "^0.2.9",
-    "nuxt": "^3.2.3"
+    "nuxt": "^3.8.0"
   }
 }
