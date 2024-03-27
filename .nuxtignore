@@ -1,0 +1,4 @@
+content/_archive/*
+content/_blog/*
+public/media/*
+components/content/Archivelist.vue
